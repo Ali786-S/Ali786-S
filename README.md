@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Sikandar ALi - 
+I’m an enthusiastic Computer Science student who thrives on tackling challenging problems through innovative technology. I’m passionate about building scalable, efficient software that can make a real difference to users and businesses alike. With solid grounding in core computer science concepts like algorithms, data structures, and object-oriented design, plus hands-on experience coding in Python and JavaScript, I enjoy working in dynamic, collaborative environments where I can both learn from and contribute to high-impact projects. I’m fascinated by distributed systems, cloud technologies, and machine learning and eager to deepen my skills in these areas while contributing to solutions that push the boundaries of what’s possible. Most importantly, I’m committed to continuous learning and excited by the opportunity to grow through mentorship, hands-on experience, and teamwork to deliver technology that truly moves the needle. Passionate about building user-centric applications and eager to expand into iOS and Android app development.
 
 <!--
 **Ali786-S/Ali786-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
